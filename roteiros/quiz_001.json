@@ -1,0 +1,16 @@
+{
+  "gancho": "Só 1% acerta as 3",
+  "fala_gancho": "Só um por cento acerta essas três. Valendo!",
+  "perguntas": [
+    {"pergunta": "Qual é o único mamífero que consegue voar de verdade?",
+     "opcoes": ["Esquilo-voador", "Morcego", "Colugo"], "correta": 1,
+     "fato": "O esquilo-voador e o colugo só planam."},
+    {"pergunta": "Em qual planeta um dia dura mais que um ano?",
+     "opcoes": ["Marte", "Vênus", "Júpiter"], "correta": 1,
+     "fato": "Vênus gira tão devagar que o dia é mais longo que o ano."},
+    {"pergunta": "Quantos corações tem um polvo?",
+     "opcoes": ["1", "2", "3"], "correta": 2,
+     "fato": "Três! Dois para as brânquias e um para o corpo."}
+  ],
+  "fala_final": "Quantas você acertou? Comenta aí!"
+}
