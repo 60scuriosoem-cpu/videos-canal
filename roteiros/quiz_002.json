@@ -1,0 +1,16 @@
+{
+  "gancho": "Fã de cinema acerta as 3?",
+  "fala_gancho": "Se você é fã de cinema, acerta essas três. Valendo!",
+  "perguntas": [
+    {"pergunta": "Quem assumiu a DC Studios no lugar de James Gunn?",
+     "opcoes": ["Kevin Feige", "Jeremy Latcham", "Zack Snyder"], "correta": 1,
+     "fato": "Jeremy Latcham, veterano da Marvel Studios."},
+    {"pergunta": "No Brasil, Avengers: Doomsday se chama Vingadores...",
+     "opcoes": ["Juízo Final", "Doutor Destino", "Guerras Secretas"], "correta": 1,
+     "fato": "Vingadores: Doutor Destino, com Robert Downey Jr."},
+    {"pergunta": "Quando Vingadores: Doutor Destino estreia no Brasil?",
+     "opcoes": ["17 de dezembro", "25 de dezembro", "1º de janeiro"], "correta": 0,
+     "fato": "Dia 17 de dezembro, um dia antes dos Estados Unidos."}
+  ],
+  "fala_final": "Acertou as três? Comenta aí e segue pra mais!"
+}
