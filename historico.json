@@ -1,0 +1,42 @@
+[
+ {
+  "arquivo": "quiz_001.mp4",
+  "data": "2026-11-24",
+  "tema": "curiosidades gerais",
+  "perguntas": [
+   "Qual é o único mamífero que consegue voar de verdade?",
+   "Em qual planeta um dia dura mais que um ano?",
+   "Quantos corações tem um polvo?"
+  ],
+  "horarios": {
+   "yt": "09:10",
+   "ig": "09:13",
+   "tt": "09:16"
+  },
+  "uuids": {
+   "yt": "1894653115108904684",
+   "ig": "1995956321437042028",
+   "tt": "-7798892090845084736"
+  }
+ },
+ {
+  "arquivo": "quiz_002.mp4",
+  "data": "2026-11-24",
+  "tema": "cultura pop (DC/Marvel)",
+  "perguntas": [
+   "Quem assumiu a DC Studios no lugar de James Gunn?",
+   "No Brasil, Avengers: Doomsday se chama Vingadores...",
+   "Quando Vingadores: Doutor Destino estreia no Brasil?"
+  ],
+  "horarios": {
+   "yt": "19:23",
+   "tt": "19:29",
+   "ig": "19:37"
+  },
+  "uuids": {
+   "yt": "-8958833219290248198",
+   "tt": "3120257775599635297",
+   "ig": "-8971874978718332255"
+  }
+ }
+]
