@@ -162,7 +162,8 @@ def build(roteiro, out):
         for off, a in evs:
             s = int((t0 + off) * SR); voice[s:s + len(a)] += a[: n - s]
         t0 += dur
-    mix = voice + music(n / SR)
+    mus = music(n / SR); mus = np.pad(mus, (0, max(0, n - len(mus))))[:n]
+    mix = voice + mus
     mix = np.clip(mix / max(1.0, np.abs(mix).max()), -1, 1)
     wav = os.path.join(TMP, "mix.wav")
     with wave.open(wav, "w") as w:

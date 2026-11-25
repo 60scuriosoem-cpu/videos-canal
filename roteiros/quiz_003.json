@@ -1,0 +1,16 @@
+{
+  "gancho": "Duvido você acertar todas",
+  "fala_gancho": "Duvido você acertar todas essas. Corpo, espaço e Brasil. Valendo!",
+  "perguntas": [
+    {"pergunta": "Qual é o maior osso do corpo humano?",
+     "opcoes": ["Tíbia", "Fêmur", "Úmero"], "correta": 1,
+     "fato": "O fêmur fica na coxa e é também o mais forte."},
+    {"pergunta": "Qual planeta tem mais luas conhecidas?",
+     "opcoes": ["Júpiter", "Netuno", "Saturno"], "correta": 2,
+     "fato": "Saturno passa de 270 luas confirmadas."},
+    {"pergunta": "Qual é o maior estado do Brasil em área?",
+     "opcoes": ["Amazonas", "Pará", "Mato Grosso"], "correta": 0,
+     "fato": "O Amazonas tem mais de 1,5 milhão de km²."}
+  ],
+  "fala_final": "Quantas você acertou? Deixa nos comentários e segue pra mais!"
+}

@@ -1,0 +1,16 @@
+{
+  "gancho": "Engenharia: você acerta as 3?",
+  "fala_gancho": "Três obras gigantes. Será que você acerta todas? Valendo!",
+  "perguntas": [
+    {"pergunta": "Qual é o prédio mais alto do mundo?",
+     "opcoes": ["Burj Khalifa", "Empire State", "Torre de Xangai"], "correta": 0,
+     "fato": "O Burj Khalifa, em Dubai, tem 828 metros."},
+    {"pergunta": "A Ponte Rio-Niterói tem cerca de quantos km?",
+     "opcoes": ["5 km", "13 km", "30 km"], "correta": 1,
+     "fato": "São cerca de 13,3 km sobre a Baía de Guanabara."},
+    {"pergunta": "Em que ano a Torre Eiffel foi inaugurada?",
+     "opcoes": ["1850", "1920", "1889"], "correta": 2,
+     "fato": "Foi feita para a Exposição Universal de Paris."}
+  ],
+  "fala_final": "E aí, acertou quantas? Comenta o número aqui embaixo!"
+}

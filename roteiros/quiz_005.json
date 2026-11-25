@@ -1,0 +1,16 @@
+{
+  "gancho": "Gamer de verdade acerta as 3?",
+  "fala_gancho": "Se você é gamer de verdade, essa é fácil. Será? Valendo!",
+  "perguntas": [
+    {"pergunta": "Em que dia o GTA 6 foi lançado?",
+     "opcoes": ["1º de outubro", "19 de novembro", "25 de dezembro"], "correta": 1,
+     "fato": "Saiu em 19 de novembro para PS5 e Xbox Series."},
+    {"pergunta": "Qual cidade de GTA 6 é inspirada em Miami?",
+     "opcoes": ["Liberty City", "Los Santos", "Vice City"], "correta": 2,
+     "fato": "Vice City fica no estado fictício de Leonida."},
+    {"pergunta": "Quem estrela a nova série Blade Runner 2099?",
+     "opcoes": ["Michelle Yeoh", "Zendaya", "Margot Robbie"], "correta": 0,
+     "fato": "Com Hunter Schafer, estreou 25/11 no Prime Video."}
+  ],
+  "fala_final": "Acertou todas? Comenta quantas e segue o canal!"
+}
