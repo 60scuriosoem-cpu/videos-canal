@@ -1,0 +1,2 @@
+ATIVO
+# Troque para PAUSADO quando o site estiver sem crédito na API. A tarefa da Traço BIM não posta nada enquanto estiver PAUSADO.
