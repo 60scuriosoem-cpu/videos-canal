@@ -1,0 +1,37 @@
+{
+ "gancho": "Fã de cinema acerta as 3?",
+ "fala_gancho": "Se você ama cinema e séries, isso aqui é moleza. Será?",
+ "perguntas": [
+  {
+   "pergunta": "Quem volta como Greg Focker no novo Entrando Numa Fria?",
+   "opcoes": [
+    "Owen Wilson",
+    "Adam Sandler",
+    "Ben Stiller"
+   ],
+   "correta": 2,
+   "fato": "Entrando Numa Grande Fria estreou dia 26/11."
+  },
+  {
+   "pergunta": "Qual cantora entrou no elenco do novo filme?",
+   "opcoes": [
+    "Taylor Swift",
+    "Ariana Grande",
+    "Anitta"
+   ],
+   "correta": 1,
+   "fato": "O título no Brasil faz trocadilho com o nome dela."
+  },
+  {
+   "pergunta": "A 3ª temporada de Percy Jackson adapta qual livro?",
+   "opcoes": [
+    "Mar de Monstros",
+    "Maldição do Titã",
+    "Último Olimpiano"
+   ],
+   "correta": 1,
+   "fato": "É o terceiro livro de Rick Riordan, no Disney+."
+  }
+ ],
+ "fala_final": "Comenta seu placar e se inscreve pra mais!"
+}

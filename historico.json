@@ -163,5 +163,108 @@
   ],
   "horarios": {},
   "uuids": {}
+ },
+ {
+  "arquivo": "quiz_006.mp4",
+  "data": "2026-11-26",
+  "tema": "curiosidades gerais (animais)",
+  "formato": "short",
+  "perguntas": [
+   "Qual animal tem digitais quase iguais às humanas?",
+   "Qual destes mamíferos bota ovos?",
+   "Qual ave consegue voar de ré?"
+  ],
+  "horarios": {
+   "ig": "08:37",
+   "yt": "08:44",
+   "ig_story": "10:23 (quiz_005)"
+  },
+  "uuids": {}
+ },
+ {
+  "arquivo": "quiz_006_tt.mp4",
+  "data": "2026-11-26",
+  "tema": "curiosidades gerais (animais)",
+  "formato": "tiktok",
+  "perguntas": [
+   "Qual animal tem digitais quase iguais às humanas?",
+   "Qual destes mamíferos bota ovos?",
+   "Qual ave consegue voar de ré?",
+   "Quantas câmaras tem o estômago de uma vaca?",
+   "Qual animal consegue cochilar em pé?",
+   "Quantos olhos tem uma abelha?"
+  ],
+  "horarios": {
+   "tt": "08:49"
+  },
+  "uuids": {}
+ },
+ {
+  "arquivo": "quiz_007.mp4",
+  "data": "2026-11-26",
+  "tema": "cultura pop (Entrando Numa Grande Fria / Percy Jackson / Anéis de Poder)",
+  "formato": "short",
+  "perguntas": [
+   "Quem volta como Greg Focker no novo Entrando Numa Fria?",
+   "Qual cantora entrou no elenco do novo filme?",
+   "A 3ª temporada de Percy Jackson adapta qual livro?"
+  ],
+  "horarios": {
+   "yt": "12:47",
+   "ig": "13:04"
+  },
+  "uuids": {}
+ },
+ {
+  "arquivo": "quiz_007_tt.mp4",
+  "data": "2026-11-26",
+  "tema": "cultura pop (Entrando Numa Grande Fria / Percy Jackson / Anéis de Poder)",
+  "formato": "tiktok",
+  "perguntas": [
+   "Quem volta como Greg Focker no novo Entrando Numa Fria?",
+   "Qual cantora entrou no elenco do novo filme?",
+   "A 3ª temporada de Percy Jackson adapta qual livro?",
+   "Em que ano saiu o primeiro Entrando Numa Fria?",
+   "Os Anéis de Poder se passa em qual mundo?",
+   "Quem vive Jack Byrnes, o sogro de Greg Focker?"
+  ],
+  "horarios": {
+   "tt": "12:56"
+  },
+  "uuids": {}
+ },
+ {
+  "arquivo": "quiz_008.mp4",
+  "data": "2026-11-26",
+  "tema": "curiosidades gerais (espaço/história/Brasil)",
+  "formato": "short",
+  "perguntas": [
+   "Qual foi o primeiro animal a orbitar a Terra?",
+   "Quanto tempo a luz do Sol leva até a Terra?",
+   "Qual é a vila mais antiga do Brasil?"
+  ],
+  "horarios": {
+   "ig": "20:06",
+   "yt": "20:17"
+  },
+  "uuids": {}
+ },
+ {
+  "arquivo": "quiz_008_tt.mp4",
+  "data": "2026-11-26",
+  "tema": "curiosidades gerais (espaço/história/Brasil)",
+  "formato": "tiktok",
+  "perguntas": [
+   "Qual foi o primeiro animal a orbitar a Terra?",
+   "Quanto tempo a luz do Sol leva até a Terra?",
+   "Qual é a vila mais antiga do Brasil?",
+   "Qual planeta gira deitado, de lado?",
+   "Que povo construiu Machu Picchu?",
+   "Em que ano o Brasil declarou independência?"
+  ],
+  "horarios": {
+   "tt": "19:58"
+  },
+  "uuids": {}
  }
 ]

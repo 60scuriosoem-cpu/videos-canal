@@ -1,0 +1,67 @@
+{
+ "gancho": "Cinema e séries: acerta as 6?",
+ "fala_gancho": "Seis perguntas sobre os lançamentos do momento. Valendo!",
+ "perguntas": [
+  {
+   "pergunta": "Quem volta como Greg Focker no novo Entrando Numa Fria?",
+   "opcoes": [
+    "Owen Wilson",
+    "Adam Sandler",
+    "Ben Stiller"
+   ],
+   "correta": 2,
+   "fato": "Entrando Numa Grande Fria estreou dia 26/11."
+  },
+  {
+   "pergunta": "Qual cantora entrou no elenco do novo filme?",
+   "opcoes": [
+    "Taylor Swift",
+    "Ariana Grande",
+    "Anitta"
+   ],
+   "correta": 1,
+   "fato": "O título no Brasil faz trocadilho com o nome dela."
+  },
+  {
+   "pergunta": "A 3ª temporada de Percy Jackson adapta qual livro?",
+   "opcoes": [
+    "Mar de Monstros",
+    "Maldição do Titã",
+    "Último Olimpiano"
+   ],
+   "correta": 1,
+   "fato": "É o terceiro livro de Rick Riordan, no Disney+."
+  },
+  {
+   "pergunta": "Em que ano saiu o primeiro Entrando Numa Fria?",
+   "opcoes": [
+    "1995",
+    "2000",
+    "2008"
+   ],
+   "correta": 1,
+   "fato": "Já com Robert De Niro e Ben Stiller."
+  },
+  {
+   "pergunta": "Os Anéis de Poder se passa em qual mundo?",
+   "opcoes": [
+    "Nárnia",
+    "Westeros",
+    "Terra-média"
+   ],
+   "correta": 2,
+   "fato": "A série do Prime Video é baseada em Tolkien."
+  },
+  {
+   "pergunta": "Quem vive Jack Byrnes, o sogro de Greg Focker?",
+   "opcoes": [
+    "Robert De Niro",
+    "Al Pacino",
+    "Dustin Hoffman"
+   ],
+   "correta": 0,
+   "fato": "Dustin Hoffman faz o pai de Greg na saga."
+  }
+ ],
+ "fala_final": "Gabaritou? Comenta aí e me segue pra mais quiz!"
+}

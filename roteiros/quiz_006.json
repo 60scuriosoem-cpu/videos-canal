@@ -1,0 +1,37 @@
+{
+ "gancho": "Só 1% acerta essas 3!",
+ "fala_gancho": "Só um por cento das pessoas acerta essas três. Vamos ver se você é um deles!",
+ "perguntas": [
+  {
+   "pergunta": "Qual animal tem digitais quase iguais às humanas?",
+   "opcoes": [
+    "Coala",
+    "Gato",
+    "Cachorro"
+   ],
+   "correta": 0,
+   "fato": "As digitais do coala confundem até no microscópio."
+  },
+  {
+   "pergunta": "Qual destes mamíferos bota ovos?",
+   "opcoes": [
+    "Morcego",
+    "Ornitorrinco",
+    "Golfinho"
+   ],
+   "correta": 1,
+   "fato": "Só ornitorrinco e équidnas botam ovos."
+  },
+  {
+   "pergunta": "Qual ave consegue voar de ré?",
+   "opcoes": [
+    "Águia",
+    "Pardal",
+    "Beija-flor"
+   ],
+   "correta": 2,
+   "fato": "O beija-flor voa para trás e até parado no ar."
+  }
+ ],
+ "fala_final": "Quantas você acertou? Comenta aí e segue pra mais!"
+}

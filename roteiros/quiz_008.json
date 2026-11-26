@@ -1,0 +1,37 @@
+{
+ "gancho": "Duvido você gabaritar!",
+ "fala_gancho": "Espaço, história e Brasil. Duvido você acertar as três!",
+ "perguntas": [
+  {
+   "pergunta": "Qual foi o primeiro animal a orbitar a Terra?",
+   "opcoes": [
+    "Um macaco",
+    "A cadela Laika",
+    "Um gato"
+   ],
+   "correta": 1,
+   "fato": "Laika subiu em 1957, a bordo do Sputnik 2."
+  },
+  {
+   "pergunta": "Quanto tempo a luz do Sol leva até a Terra?",
+   "opcoes": [
+    "8 segundos",
+    "8 minutos",
+    "8 horas"
+   ],
+   "correta": 1,
+   "fato": "Cerca de 8 minutos e 20 segundos."
+  },
+  {
+   "pergunta": "Qual é a vila mais antiga do Brasil?",
+   "opcoes": [
+    "Salvador",
+    "Olinda",
+    "São Vicente"
+   ],
+   "correta": 2,
+   "fato": "Fundada em 1532 por Martim Afonso de Sousa."
+  }
+ ],
+ "fala_final": "Conta quantas acertou e segue o Curioso em 60s!"
+}

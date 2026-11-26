@@ -1,0 +1,67 @@
+{
+ "gancho": "Só gênio acerta as 6!",
+ "fala_gancho": "Seis perguntas sobre animais. Só gênio gabarita. Bora?",
+ "perguntas": [
+  {
+   "pergunta": "Qual animal tem digitais quase iguais às humanas?",
+   "opcoes": [
+    "Coala",
+    "Gato",
+    "Cachorro"
+   ],
+   "correta": 0,
+   "fato": "As digitais do coala confundem até no microscópio."
+  },
+  {
+   "pergunta": "Qual destes mamíferos bota ovos?",
+   "opcoes": [
+    "Morcego",
+    "Ornitorrinco",
+    "Golfinho"
+   ],
+   "correta": 1,
+   "fato": "Só ornitorrinco e équidnas botam ovos."
+  },
+  {
+   "pergunta": "Qual ave consegue voar de ré?",
+   "opcoes": [
+    "Águia",
+    "Pardal",
+    "Beija-flor"
+   ],
+   "correta": 2,
+   "fato": "O beija-flor voa para trás e até parado no ar."
+  },
+  {
+   "pergunta": "Quantas câmaras tem o estômago de uma vaca?",
+   "opcoes": [
+    "Duas",
+    "Quatro",
+    "Seis"
+   ],
+   "correta": 1,
+   "fato": "Rúmen, retículo, omaso e abomaso."
+  },
+  {
+   "pergunta": "Qual animal consegue cochilar em pé?",
+   "opcoes": [
+    "Cavalo",
+    "Cachorro",
+    "Porco"
+   ],
+   "correta": 0,
+   "fato": "Mas pro sono profundo o cavalo precisa deitar."
+  },
+  {
+   "pergunta": "Quantos olhos tem uma abelha?",
+   "opcoes": [
+    "Dois",
+    "Cinco",
+    "Oito"
+   ],
+   "correta": 1,
+   "fato": "Dois olhos grandes e três pequenos no topo."
+  }
+ ],
+ "fala_final": "Fala nos comentários quantas acertou e segue o canal!"
+}

@@ -1,0 +1,67 @@
+{
+ "gancho": "Espaço e história: 6 de 6?",
+ "fala_gancho": "Espaço, história e Brasil. Seis perguntas. Vamos nessa!",
+ "perguntas": [
+  {
+   "pergunta": "Qual foi o primeiro animal a orbitar a Terra?",
+   "opcoes": [
+    "Um macaco",
+    "A cadela Laika",
+    "Um gato"
+   ],
+   "correta": 1,
+   "fato": "Laika subiu em 1957, a bordo do Sputnik 2."
+  },
+  {
+   "pergunta": "Quanto tempo a luz do Sol leva até a Terra?",
+   "opcoes": [
+    "8 segundos",
+    "8 minutos",
+    "8 horas"
+   ],
+   "correta": 1,
+   "fato": "Cerca de 8 minutos e 20 segundos."
+  },
+  {
+   "pergunta": "Qual é a vila mais antiga do Brasil?",
+   "opcoes": [
+    "Salvador",
+    "Olinda",
+    "São Vicente"
+   ],
+   "correta": 2,
+   "fato": "Fundada em 1532 por Martim Afonso de Sousa."
+  },
+  {
+   "pergunta": "Qual planeta gira deitado, de lado?",
+   "opcoes": [
+    "Marte",
+    "Urano",
+    "Vênus"
+   ],
+   "correta": 1,
+   "fato": "O eixo de Urano é inclinado uns 98 graus."
+  },
+  {
+   "pergunta": "Que povo construiu Machu Picchu?",
+   "opcoes": [
+    "Incas",
+    "Maias",
+    "Astecas"
+   ],
+   "correta": 0,
+   "fato": "Ergueram a cidade no século 15, no Peru."
+  },
+  {
+   "pergunta": "Em que ano o Brasil declarou independência?",
+   "opcoes": [
+    "1808",
+    "1822",
+    "1889"
+   ],
+   "correta": 1,
+   "fato": "Foi em 7 de setembro de 1822."
+  }
+ ],
+ "fala_final": "Quantas foram? Comenta e segue pra não perder o próximo!"
+}
