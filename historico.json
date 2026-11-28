@@ -298,7 +298,11 @@
    "ig": "17:56",
    "ig_story_youtube": "20:37"
   },
-  "buffer_ids": {}
+  "buffer_ids": {
+   "yt": "6b0aac63d2df6f06d3a34ef0",
+   "ig": "6b0aac63669c22f85de47c19",
+   "ig_story_youtube": "6b0aac648cbf0dfe50cf2e7f"
+  }
  },
  {
   "arquivo": "quiz_009_tt.mp4",
@@ -316,7 +320,9 @@
   "horarios": {
    "tt": "18:04"
   },
-  "buffer_ids": {}
+  "buffer_ids": {
+   "tt": "6b0aac642bae404eeb869f39"
+  }
  },
  {
   "arquivo": "quiz_010.mp4",
@@ -331,7 +337,9 @@
   "horarios": {
    "ig": "21:24"
   },
-  "buffer_ids": {}
+  "buffer_ids": {
+   "ig": "6b0aac65669c22f85de47ca6"
+  }
  },
  {
   "arquivo": "quiz_010_tt.mp4",
@@ -349,7 +357,9 @@
   "horarios": {
    "tt": "21:16"
   },
-  "buffer_ids": {}
+  "buffer_ids": {
+   "tt": "6b0aac65669c22f85de47c6a"
+  }
  },
  {
   "arquivo": "quiz_011.mp4",
@@ -365,7 +375,10 @@
    "ig": "11:53",
    "ig_story": "13:38 (reuso quiz_008)"
   },
-  "buffer_ids": {}
+  "buffer_ids": {
+   "ig": "6b0aac4d2bae404eeb8698e2",
+   "ig_story_reuso_008": "6b0aac4ee126bb75971e88b3"
+  }
  },
  {
   "arquivo": "quiz_011_tt.mp4",
@@ -384,6 +397,8 @@
   "horarios": {
    "tt": "12:01"
   },
-  "buffer_ids": {}
+  "buffer_ids": {
+   "tt": "6b0aac4ee897dadb1d7231c3"
+  }
  }
 ]
