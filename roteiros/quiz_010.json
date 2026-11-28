@@ -1,0 +1,39 @@
+{
+ "gancho": "Engenharia: duvido 3 de 3!",
+ "fala_gancho": "Obras gigantes! Duvido você acertar as três!",
+ "perguntas": [
+  {
+   "pergunta": "Qual é a maior hidrelétrica do mundo?",
+   "opcoes": [
+    "Itaipu",
+    "Três Gargantas",
+    "Belo Monte"
+   ],
+   "correta": 1,
+   "fato": "Fica no rio Yangtzé, na China."
+  },
+  {
+   "pergunta": "Em que ano o Cristo Redentor foi inaugurado?",
+   "opcoes": [
+    "1922",
+    "1931",
+    "1950"
+   ],
+   "correta": 1,
+   "fato": "Inaugurado em 12 de outubro de 1931."
+  },
+  {
+   "pergunta": "Onde fica a ponte mais longa do mundo?",
+   "opcoes": [
+    "China",
+    "EUA",
+    "Japão"
+   ],
+   "correta": 0,
+   "fato": "Resposta amanhã no canal! Se inscreve pra não perder",
+   "aberto": true,
+   "fato_real": "Danyang–Kunshan: cerca de 164 km de extensão."
+  }
+ ],
+ "fala_final": "A resposta sai amanhã no canal. Se inscreve pra não perder!"
+}

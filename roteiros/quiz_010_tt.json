@@ -1,0 +1,67 @@
+{
+ "gancho": "Obras gigantes: 6 perguntas",
+ "fala_gancho": "Hidrelétrica, Cristo, pontes e canais. Seis perguntas de engenharia!",
+ "perguntas": [
+  {
+   "pergunta": "Qual é a maior hidrelétrica do mundo?",
+   "opcoes": [
+    "Itaipu",
+    "Três Gargantas",
+    "Belo Monte"
+   ],
+   "correta": 1,
+   "fato": "Fica no rio Yangtzé, na China."
+  },
+  {
+   "pergunta": "Em que ano o Cristo Redentor foi inaugurado?",
+   "opcoes": [
+    "1922",
+    "1931",
+    "1950"
+   ],
+   "correta": 1,
+   "fato": "Inaugurado em 12 de outubro de 1931."
+  },
+  {
+   "pergunta": "Onde fica a ponte mais longa do mundo?",
+   "opcoes": [
+    "China",
+    "EUA",
+    "Japão"
+   ],
+   "correta": 0,
+   "fato": "Danyang–Kunshan: cerca de 164 km de extensão."
+  },
+  {
+   "pergunta": "O Canal do Panamá liga quais oceanos?",
+   "opcoes": [
+    "Atlântico-Índico",
+    "Atlântico-Pacífico",
+    "Pacífico-Índico"
+   ],
+   "correta": 1,
+   "fato": "Inaugurado em 1914, encurta viagens em milhares de km."
+  },
+  {
+   "pergunta": "Em que ano Brasília foi inaugurada?",
+   "opcoes": [
+    "1950",
+    "1960",
+    "1970"
+   ],
+   "correta": 1,
+   "fato": "Em 21 de abril de 1960."
+  },
+  {
+   "pergunta": "De que material é feita a Torre Eiffel?",
+   "opcoes": [
+    "Concreto",
+    "Ferro",
+    "Alumínio"
+   ],
+   "correta": 1,
+   "fato": "São cerca de 7.300 toneladas de ferro."
+  }
+ ],
+ "fala_final": "Comenta seu placar de seis e segue pra mais quizzes!"
+}

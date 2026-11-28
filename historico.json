@@ -282,5 +282,108 @@
   "uuids": {
    "tt": "-2161146165528277014"
   }
+ },
+ {
+  "arquivo": "quiz_009.mp4",
+  "data": "2026-11-28",
+  "tema": "cultura pop (Jogos Vorazes / Oscar 2027)",
+  "formato": "short_aberto",
+  "perguntas": [
+   "Quem vive o jovem Haymitch no novo Jogos Vorazes?",
+   "Amanhecer na Colheita mostra qual edição dos Jogos?",
+   "Qual filme representa o Brasil no Oscar 2027?"
+  ],
+  "horarios": {
+   "yt": "17:47",
+   "ig": "17:56",
+   "ig_story_youtube": "20:37"
+  },
+  "buffer_ids": {}
+ },
+ {
+  "arquivo": "quiz_009_tt.mp4",
+  "data": "2026-11-28",
+  "tema": "cultura pop (Jogos Vorazes / Rocky / Godzilla / Disney)",
+  "formato": "tiktok",
+  "perguntas": [
+   "Quem vive o jovem Haymitch no novo Jogos Vorazes?",
+   "Amanhecer na Colheita mostra qual edição dos Jogos?",
+   "Qual filme representa o Brasil no Oscar 2027?",
+   "Godzilla Minus Zero continua qual filme?",
+   "Em que ano saiu o primeiro filme Rocky?",
+   "Enfeitiçadas: Bem-vindos a Hexe é de qual estúdio?"
+  ],
+  "horarios": {
+   "tt": "18:04"
+  },
+  "buffer_ids": {}
+ },
+ {
+  "arquivo": "quiz_010.mp4",
+  "data": "2026-11-28",
+  "tema": "engenharia e construções",
+  "formato": "reel_aberto",
+  "perguntas": [
+   "Qual é a maior hidrelétrica do mundo?",
+   "Em que ano o Cristo Redentor foi inaugurado?",
+   "Onde fica a ponte mais longa do mundo?"
+  ],
+  "horarios": {
+   "ig": "21:24"
+  },
+  "buffer_ids": {}
+ },
+ {
+  "arquivo": "quiz_010_tt.mp4",
+  "data": "2026-11-28",
+  "tema": "engenharia e construções",
+  "formato": "tiktok",
+  "perguntas": [
+   "Qual é a maior hidrelétrica do mundo?",
+   "Em que ano o Cristo Redentor foi inaugurado?",
+   "Onde fica a ponte mais longa do mundo?",
+   "O Canal do Panamá liga quais oceanos?",
+   "Em que ano Brasília foi inaugurada?",
+   "De que material é feita a Torre Eiffel?"
+  ],
+  "horarios": {
+   "tt": "21:16"
+  },
+  "buffer_ids": {}
+ },
+ {
+  "arquivo": "quiz_011.mp4",
+  "data": "2026-11-28",
+  "tema": "curiosidades gerais",
+  "formato": "reel_completo",
+  "perguntas": [
+   "Qual alimento praticamente nunca estraga?",
+   "Qual animal tem o maior olho do mundo?",
+   "Quantas vezes o coração bate por dia?"
+  ],
+  "horarios": {
+   "ig": "11:53",
+   "ig_story": "13:38 (reuso quiz_008)"
+  },
+  "buffer_ids": {}
+ },
+ {
+  "arquivo": "quiz_011_tt.mp4",
+  "data": "2026-11-28",
+  "tema": "curiosidades gerais",
+  "formato": "tiktok",
+  "perguntas": [
+   "Qual alimento praticamente nunca estraga?",
+   "Qual animal tem o maior olho do mundo?",
+   "Quantas vezes o coração bate por dia?",
+   "Qual fruta tem as sementes do lado de fora?",
+   "Qual é a cor da 'caixa-preta' dos aviões?",
+   "Quantas patas tem uma borboleta?",
+   "Em qual planeta fica a maior montanha conhecida?"
+  ],
+  "horarios": {
+   "tt": "12:01"
+  },
+  "buffer_ids": {}
  }
 ]

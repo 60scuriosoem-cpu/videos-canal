@@ -109,8 +109,9 @@ def frame(state, t_global, total):
         y0 = max(y + 70, 760)
         for k, o in enumerate(q["opcoes"]):
             yy = y0 + k * 175
-            ok = kind == "resp" and k == q["correta"]
-            dim = kind == "resp" and not ok
+            aberto = q.get("aberto", False)
+            ok = kind == "resp" and k == q["correta"] and not aberto
+            dim = kind == "resp" and not ok and not aberto
             d.rounded_rectangle([130, yy, W - 130, yy + 135], radius=40,
                                 fill=GREEN if ok else BOX, outline=YEL if not dim else (90, 70, 130), width=5)
             ctext(d, f"{'ABC'[k]}) {o}", 60, yy + 32, WHITE if not dim else (150, 140, 180))
@@ -149,7 +150,9 @@ def build(roteiro, out):
         timeline.append(({**st, "kind": "perg"}, len(vq) / SR + 0.2, [(0, vq)]))
         for num in (3, 2, 1):
             timeline.append(({**st, "kind": "conta", "num": num}, 0.8, [(0, tick())]))
-        vr = tts(f"Letra {'ABC'[q['correta']]}! {q['fato']}", f"r{n}")
+        # "aberto": True -> não revela a resposta (formato resposta em aberto)
+        fala_r = q['fato'] if q.get("aberto") else f"Letra {'ABC'[q['correta']]}! {q['fato']}"
+        vr = tts(fala_r, f"r{n}")
         timeline.append(({**st, "kind": "resp"}, len(vr) / SR + 0.5 + 0.35, [(0, ding()), (0.35, vr)]))
     vf = tts(roteiro["fala_final"], "f")
     timeline.append(({"kind": "final"}, len(vf) / SR + 0.6, [(0, vf)]))

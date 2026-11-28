@@ -1,0 +1,45 @@
+{
+ "testes": [
+  {
+   "inicio": "2026-11-28",
+   "fim_previsto": "2026-11-30",
+   "variavel": "Short/Reel com resposta em aberto (3ª pergunta revelada no dia seguinte) vs. completo",
+   "versoes": {
+    "aberto": [
+     "quiz_009 (YT+IG)",
+     "quiz_010 (IG)"
+    ],
+    "completo": [
+     "quiz_011 (IG)"
+    ]
+   },
+   "pendente_revelar": [
+    {
+     "de": "quiz_009",
+     "pergunta": "Qual filme representa o Brasil no Oscar 2027?",
+     "resposta": "A) Feito Pipa, com Lázaro Ramos",
+     "revelar_em": "2026-11-29"
+    },
+    {
+     "de": "quiz_010",
+     "pergunta": "Onde fica a ponte mais longa do mundo?",
+     "resposta": "A) China — Danyang–Kunshan, ~164 km",
+     "revelar_em": "2026-11-29"
+    }
+   ],
+   "linha_base": {
+    "ig_reel_quiz_006_views": 140,
+    "yt_short_quiz_006_views": 132,
+    "tiktok_views_total": 0,
+    "obs": "métricas de 27/11 ainda não atualizadas no Buffer em 28/11 07h"
+   },
+   "resultado": null
+  }
+ ],
+ "fila": [
+  "com/sem Story chamando pro YouTube",
+  "temas: cultura pop vs curiosidades vs engenharia",
+  "ganchos",
+  "horário manhã vs noite"
+ ]
+}

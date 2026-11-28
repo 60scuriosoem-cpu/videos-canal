@@ -1,0 +1,67 @@
+{
+ "gancho": "Cinema: 6 perguntas!",
+ "fala_gancho": "Jogos Vorazes, Rocky e Godzilla. Seis perguntas, só cinéfilo gabarita!",
+ "perguntas": [
+  {
+   "pergunta": "Quem vive o jovem Haymitch no novo Jogos Vorazes?",
+   "opcoes": [
+    "Tom Blyth",
+    "Joseph Zada",
+    "Josh Hutcherson"
+   ],
+   "correta": 1,
+   "fato": "Joseph Zada estrela Amanhecer na Colheita."
+  },
+  {
+   "pergunta": "Amanhecer na Colheita mostra qual edição dos Jogos?",
+   "opcoes": [
+    "A 10ª",
+    "A 50ª",
+    "A 74ª"
+   ],
+   "correta": 1,
+   "fato": "O Massacre Quaternário, com o dobro de tributos."
+  },
+  {
+   "pergunta": "Qual filme representa o Brasil no Oscar 2027?",
+   "opcoes": [
+    "Feito Pipa",
+    "Yellow Cake",
+    "Pecadora"
+   ],
+   "correta": 0,
+   "fato": "Feito Pipa, com Lázaro Ramos."
+  },
+  {
+   "pergunta": "Godzilla Minus Zero continua qual filme?",
+   "opcoes": [
+    "Shin Godzilla",
+    "Godzilla Minus One",
+    "Godzilla vs. Kong"
+   ],
+   "correta": 1,
+   "fato": "Direção de Takashi Yamazaki de novo."
+  },
+  {
+   "pergunta": "Em que ano saiu o primeiro filme Rocky?",
+   "opcoes": [
+    "1976",
+    "1982",
+    "1990"
+   ],
+   "correta": 0,
+   "fato": "Eu Sou o Rocky conta como Stallone o criou."
+  },
+  {
+   "pergunta": "Enfeitiçadas: Bem-vindos a Hexe é de qual estúdio?",
+   "opcoes": [
+    "DreamWorks",
+    "Disney",
+    "Illumination"
+   ],
+   "correta": 1,
+   "fato": "Animação Disney com Hailee Steinfeld na dublagem."
+  }
+ ],
+ "fala_final": "Comenta quantas acertou de seis e segue o Curioso em 60s!"
+}

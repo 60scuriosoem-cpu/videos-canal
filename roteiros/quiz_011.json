@@ -1,0 +1,37 @@
+{
+ "gancho": "Só 1% acerta a última!",
+ "fala_gancho": "Três curiosidades que quase ninguém sabe. Bora testar!",
+ "perguntas": [
+  {
+   "pergunta": "Qual alimento praticamente nunca estraga?",
+   "opcoes": [
+    "Mel",
+    "Pão",
+    "Queijo"
+   ],
+   "correta": 0,
+   "fato": "Acharam mel comestível em tumbas egípcias."
+  },
+  {
+   "pergunta": "Qual animal tem o maior olho do mundo?",
+   "opcoes": [
+    "Baleia-azul",
+    "Lula-colossal",
+    "Avestruz"
+   ],
+   "correta": 1,
+   "fato": "O olho chega ao tamanho de uma bola de futebol."
+  },
+  {
+   "pergunta": "Quantas vezes o coração bate por dia?",
+   "opcoes": [
+    "Cerca de 10 mil",
+    "Cerca de 100 mil",
+    "Cerca de 1 milhão"
+   ],
+   "correta": 1,
+   "fato": "Uns 100 mil batimentos, todo santo dia."
+  }
+ ],
+ "fala_final": "Conta quantas acertou e segue o Curioso em 60s!"
+}

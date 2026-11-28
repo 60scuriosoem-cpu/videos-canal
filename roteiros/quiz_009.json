@@ -1,0 +1,39 @@
+{
+ "gancho": "Só quem viu os filmes acerta!",
+ "fala_gancho": "Jogos Vorazes, cinema e Oscar. Duvido você acertar as três!",
+ "perguntas": [
+  {
+   "pergunta": "Quem vive o jovem Haymitch no novo Jogos Vorazes?",
+   "opcoes": [
+    "Tom Blyth",
+    "Joseph Zada",
+    "Josh Hutcherson"
+   ],
+   "correta": 1,
+   "fato": "Joseph Zada estrela Amanhecer na Colheita."
+  },
+  {
+   "pergunta": "Amanhecer na Colheita mostra qual edição dos Jogos?",
+   "opcoes": [
+    "A 10ª",
+    "A 50ª",
+    "A 74ª"
+   ],
+   "correta": 1,
+   "fato": "O Massacre Quaternário, com o dobro de tributos."
+  },
+  {
+   "pergunta": "Qual filme representa o Brasil no Oscar 2027?",
+   "opcoes": [
+    "Feito Pipa",
+    "Yellow Cake",
+    "Pecadora"
+   ],
+   "correta": 0,
+   "fato": "Resposta amanhã no canal! Se inscreve pra não perder",
+   "aberto": true,
+   "fato_real": "Feito Pipa, com Lázaro Ramos."
+  }
+ ],
+ "fala_final": "A resposta sai amanhã no canal. Se inscreve pra não perder!"
+}

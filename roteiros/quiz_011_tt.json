@@ -1,0 +1,77 @@
+{
+ "gancho": "7 curiosidades malucas",
+ "fala_gancho": "Sete curiosidades malucas. Quantas você acerta?",
+ "perguntas": [
+  {
+   "pergunta": "Qual alimento praticamente nunca estraga?",
+   "opcoes": [
+    "Mel",
+    "Pão",
+    "Queijo"
+   ],
+   "correta": 0,
+   "fato": "Acharam mel comestível em tumbas egípcias."
+  },
+  {
+   "pergunta": "Qual animal tem o maior olho do mundo?",
+   "opcoes": [
+    "Baleia-azul",
+    "Lula-colossal",
+    "Avestruz"
+   ],
+   "correta": 1,
+   "fato": "O olho chega ao tamanho de uma bola de futebol."
+  },
+  {
+   "pergunta": "Quantas vezes o coração bate por dia?",
+   "opcoes": [
+    "Cerca de 10 mil",
+    "Cerca de 100 mil",
+    "Cerca de 1 milhão"
+   ],
+   "correta": 1,
+   "fato": "Uns 100 mil batimentos, todo santo dia."
+  },
+  {
+   "pergunta": "Qual fruta tem as sementes do lado de fora?",
+   "opcoes": [
+    "Morango",
+    "Kiwi",
+    "Uva"
+   ],
+   "correta": 0,
+   "fato": "Cada pontinho do morango é um fruto com semente."
+  },
+  {
+   "pergunta": "Qual é a cor da 'caixa-preta' dos aviões?",
+   "opcoes": [
+    "Preta",
+    "Laranja",
+    "Azul"
+   ],
+   "correta": 1,
+   "fato": "Laranja, pra ser achada mais fácil."
+  },
+  {
+   "pergunta": "Quantas patas tem uma borboleta?",
+   "opcoes": [
+    "4",
+    "6",
+    "8"
+   ],
+   "correta": 1,
+   "fato": "Como todo inseto, ela tem 6 patas."
+  },
+  {
+   "pergunta": "Em qual planeta fica a maior montanha conhecida?",
+   "opcoes": [
+    "Terra",
+    "Marte",
+    "Júpiter"
+   ],
+   "correta": 1,
+   "fato": "O Monte Olimpo de Marte tem uns 22 km de altura."
+  }
+ ],
+ "fala_final": "Comenta quantas acertou e segue o perfil!"
+}
